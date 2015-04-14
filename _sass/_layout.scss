@@ -1,3 +1,17 @@
 /**
  * Site header
  */
+
+
+header {
+  width: 100%;
+  background-color: #eed;
+  a {
+    color: grey;
+    text-decoration: none;
+    transition: 1s;
+    &:hover {
+      color: black;
+    }
+  }
+}
