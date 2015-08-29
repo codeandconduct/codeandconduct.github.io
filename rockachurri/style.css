@@ -1,0 +1,37 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background: black;
+}
+.pad {
+  box-sizing: border-box;
+  padding: 1rem;
+}
+
+.image-box {
+  margin: 0 auto;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  opacity: 0;
+  transition: 3s;
+  transition-delay: 1s;
+  text-align: center;
+}
+
+img.head {
+  max-width: 400px;
+  
+}
+
+img {
+  display: inline-block;
+  max-width: 100%;
+}
+
+.image-box.reveal {
+  opacity: 1;
+}
