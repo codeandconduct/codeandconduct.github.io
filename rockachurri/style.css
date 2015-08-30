@@ -24,7 +24,7 @@ html, body {
 
 img.head {
   max-width: 400px;
-  
+  width: 100%;
 }
 
 img {
