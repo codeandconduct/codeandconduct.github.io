@@ -23,8 +23,10 @@ html, body {
 }
 
 img.head {
-  max-width: 400px;
+  max-width: 440px;
   width: 100%;
+  padding: 0rem 3rem;
+  box-sizing: border-box;
 }
 
 img {
