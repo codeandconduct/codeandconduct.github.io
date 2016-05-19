@@ -8,7 +8,15 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
-
+.middle {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  text-align: center;
+  padding: 10%;
+}
 
 /**
  * Basic styling
@@ -21,6 +29,7 @@ body {
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
+    padding-top: 2rem;
 }
 
 

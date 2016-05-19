@@ -4,11 +4,9 @@ title: The Sleeping Child
 permalink: /thesleepingchild/
 ---
 
-[back](/)
-
 # The Sleeping Child
 
-[View](http://thesleepingchild.com){: target="_blank"}
+[http://thesleepingchild.com](http://thesleepingchild.com){: target="_blank"}
 
 ## Credits
 

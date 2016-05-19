@@ -4,11 +4,9 @@ title: Sensible BC
 permalink: /sensiblebc/
 ---
 
-[back](/)
-
 # Sensible BC
 
-[View](http://sensiblebc.ca){: target="_blank"}
+[http://sensiblebc.ca](http://sensiblebc.ca){: target="_blank"}
 
 Sensible BC is a non-profit organization that is seeking to legalize
   marijuana in British Columbia.  They are a volunteer and donation based
@@ -28,8 +26,8 @@ We were brought in to refresh the site's look and feel, and simplify their site
 
 ### Brendan Asselstine - [LinkedIn](https://www.linkedin.com/pub/brendan-asselstine/28/727/245){: target='_blank'}
 
-Lead Developer, Project Manager, User Experience Designer
+Development, project management, wireframing
 
 ### Rachel Ng - [LinkedIn](https://www.linkedin.com/in/rachelng){: target='_blank'}
 
-Graphic Designer, User Experience Designer
+Graphic design, user experience design
